@@ -15,7 +15,7 @@ contract MerkelProof {
             index = index / 2;   // updates the index and iterates again
   
         }
-        return hash = root;
+        return hash == root;
 
         
     }
