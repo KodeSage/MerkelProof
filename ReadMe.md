@@ -11,7 +11,7 @@
 ##### Key Elements
 - An Array of Diffrent Transcations
 - Root Hash
-- Leaf Hash
+- Leaf Hash (hash of the transactions you want to verify)
 - Index of the transcation
 
        
